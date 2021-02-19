@@ -6,7 +6,7 @@
   font-family: "Poppins", sans-serif;
 }
 .glass {
-  display: flex;x`
+  display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
@@ -263,7 +263,7 @@ span::before{
   position: absolute;
   width: 100%;
   height: 70vh;
-  background: url(/images/bg_v1.jpg);
+  background: url(./images/bg_v1.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
